@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanes\\source\\repos\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\explorar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:explorar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|c:\\users\\vanes\\source\\repos\\proyecto\\explorar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:explorar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\rese\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:rese\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\actualizacion_contrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:actualizacion_contrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\recuperar_contrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:recuperar_contrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\crear_cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:crear_cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\aviso_privacidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:aviso_privacidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\favoritos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:favoritos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|C:\\Users\\vanes\\source\\repos\\Proyecto\\terminos_condiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4615499B-9C80-44EF-843F-1F3481CB5256}|Proyecto.csproj|solutionrelative:terminos_condiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:26:30.324Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aviso_Privacidad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Aviso_Privacidad.cs",
+              "RelativeDocumentMoniker": "Aviso_Privacidad.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Aviso_Privacidad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Aviso_Privacidad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:19:06.373Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Explorar.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Explorar.cs",
+              "RelativeDocumentMoniker": "Explorar.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Explorar.cs",
+              "RelativeToolTip": "Explorar.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:59:08.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControl1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\UserControl1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UserControl1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:36:33.962Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rese\u00F1as.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Rese\u00F1as.cs",
+              "RelativeDocumentMoniker": "Rese\u00F1as.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Rese\u00F1as.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Rese\u00F1as.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:25:25.397Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Terminos_Condiciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Terminos_Condiciones.cs",
+              "RelativeDocumentMoniker": "Terminos_Condiciones.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Terminos_Condiciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Terminos_Condiciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:00:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Favoritos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Favoritos.cs",
+              "RelativeDocumentMoniker": "Favoritos.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Favoritos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Favoritos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T05:07:09.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Explorar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Explorar.cs",
+              "RelativeDocumentMoniker": "Explorar.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Explorar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Explorar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:52:12.645Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recuperar_Contrasena.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Recuperar_Contrasena.cs",
+              "RelativeDocumentMoniker": "Recuperar_Contrasena.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Recuperar_Contrasena.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Recuperar_Contrasena.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T19:54:32.551Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crear_Cuenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Crear_Cuenta.cs",
+              "RelativeDocumentMoniker": "Crear_Cuenta.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Crear_Cuenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Crear_Cuenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:38:14.704Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Actualizacion_Contrasena.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Actualizacion_Contrasena.cs",
+              "RelativeDocumentMoniker": "Actualizacion_Contrasena.cs",
+              "ToolTip": "C:\\Users\\vanes\\source\\repos\\Proyecto\\Actualizacion_Contrasena.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actualizacion_Contrasena.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T19:52:30.634Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
