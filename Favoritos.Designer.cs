@@ -67,7 +67,7 @@
             label13 = new Label();
             pictureBox2 = new PictureBox();
             panel3 = new Panel();
-            label19 = new Label();
+            lblfav = new Label();
             label15 = new Label();
             label16 = new Label();
             label17 = new Label();
@@ -531,7 +531,7 @@
             // panel3
             // 
             panel3.Anchor = AnchorStyles.Left;
-            panel3.Controls.Add(label19);
+            panel3.Controls.Add(lblfav);
             panel3.Controls.Add(label15);
             panel3.Controls.Add(label16);
             panel3.Controls.Add(label17);
@@ -542,16 +542,16 @@
             panel3.Size = new Size(306, 235);
             panel3.TabIndex = 37;
             // 
-            // label19
+            // lblfav
             // 
-            label19.Anchor = AnchorStyles.Left;
-            label19.AutoSize = true;
-            label19.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label19.Location = new Point(92, 206);
-            label19.Name = "label19";
-            label19.Size = new Size(121, 20);
-            label19.TabIndex = 37;
-            label19.Text = "Cenote Dos Ojos";
+            lblfav.Anchor = AnchorStyles.Left;
+            lblfav.AutoSize = true;
+            lblfav.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblfav.Location = new Point(92, 206);
+            lblfav.Name = "lblfav";
+            lblfav.Size = new Size(121, 20);
+            lblfav.TabIndex = 37;
+            lblfav.Text = "Cenote Dos Ojos";
             // 
             // label15
             // 
@@ -877,7 +877,7 @@
         private Label label6;
         private Label label7;
         private PictureBox pictureBox1;
-        private Label label19;
+        private Label lblfav;
         private Label label8;
         private Panel panel2;
         private Label label14;
